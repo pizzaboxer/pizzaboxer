@@ -1,3 +1,3 @@
 # hi
 
-![](https://pizzaboxer.xyz/files/ninja.png)
+![](https://old.pizzaboxer.xyz/files/ninja.png)
